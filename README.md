@@ -1,8 +1,10 @@
-# Tic-tac-tie
+# Tic-tac-toe
 
 I thought it would be interesting to try playing tik-tac-toe on a variable size board. Vibe coded this front end to enforce basic game logic across a variable size board from the standard 3x3 board to the unruly 10x10 board
 
 Project is also an experiment in hosting the frontend on github
+
+homepage: https://deckmasterbeam.github.io/tictactoe
 
 ## Game logic
 
